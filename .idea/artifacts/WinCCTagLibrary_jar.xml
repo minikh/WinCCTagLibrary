@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WinCCTagLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WinCCTagLibrary_jar</output-path>
+    <root id="archive" name="WinCCTagLibrary.jar">
+      <element id="module-output" name="WinCCTagLibrary" />
+    </root>
+  </artifact>
+</component>
